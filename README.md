@@ -1,4 +1,4 @@
-# align="center"> Hi there 👋, I'm Jason
+# Hi there 👋, I'm Jason
 
 ## Here are some projects:
 
